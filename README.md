@@ -39,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0682-baseball-game) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
