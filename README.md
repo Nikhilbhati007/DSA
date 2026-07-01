@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [1629-slowest-key](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1629-slowest-key) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3898-find-the-degree-of-each-vertex) |
