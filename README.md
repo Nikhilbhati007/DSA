@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0063-unique-paths-ii) |
+| [0475-heaters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0475-heaters) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0682-baseball-game) |
 | [1046-last-stone-weight](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1046-last-stone-weight) |
@@ -91,4 +92,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3866-first-unique-even-element](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3866-first-unique-even-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0475-heaters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0475-heaters) |
+## Binary Search
+|  |
+| ------- |
+| [0475-heaters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0475-heaters) |
+## Sorting
+|  |
+| ------- |
+| [0475-heaters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0475-heaters) |
 <!---LeetCode Topics End-->
