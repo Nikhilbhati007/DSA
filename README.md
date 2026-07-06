@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0682-baseball-game) |
 | [1046-last-stone-weight](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1046-last-stone-weight) |
 | [1260-shift-2d-grid](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1260-shift-2d-grid) |
+| [1288-remove-covered-intervals](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1288-remove-covered-intervals) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1629-slowest-key](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1629-slowest-key) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0475-heaters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0475-heaters) |
+| [1288-remove-covered-intervals](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1288-remove-covered-intervals) |
 ## Monotonic Stack
 |  |
 | ------- |
