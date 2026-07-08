@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0064-minimum-path-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0416-partition-equal-subset-sum) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 ## Combinatorics
 |  |
 | ------- |
