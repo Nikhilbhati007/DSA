@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1288-remove-covered-intervals) |
 | [1436-destination-city](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1436-destination-city) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1629-slowest-key](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1629-slowest-key) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0682-baseball-game) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [3174-clear-digits](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3174-clear-digits) |
 ## Simulation
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1260-shift-2d-grid) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1441-build-an-array-with-stack-operations) |
 | [1688-count-of-matches-in-tournament](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1688-count-of-matches-in-tournament) |
 | [3174-clear-digits](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3174-clear-digits) |
 | [3360-stone-removal-game](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3360-stone-removal-game) |
