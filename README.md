@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1260-shift-2d-grid](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1331-rank-transform-of-an-array) |
 | [1436-destination-city](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1436-destination-city) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0771-jewels-and-stones) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1128-number-of-equivalent-domino-pairs) |
+| [1331-rank-transform-of-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1436-destination-city](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1512-number-of-good-pairs) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0475-heaters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0475-heaters) |
 | [1288-remove-covered-intervals](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1331-rank-transform-of-an-array) |
 ## Monotonic Stack
 |  |
 | ------- |
