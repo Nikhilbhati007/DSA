@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2451-odd-string-difference](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2451-odd-string-difference) |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3238-find-the-number-of-winning-players](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3238-find-the-number-of-winning-players) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1291-sequential-digits) |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3546-equal-sum-grid-partition-i) |
 ## Breadth-First Search
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0475-heaters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0475-heaters) |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3132-find-the-integer-added-to-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3132-find-the-integer-added-to-array-ii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3132-find-the-integer-added-to-array-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
