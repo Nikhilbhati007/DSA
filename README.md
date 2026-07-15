@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0636-exclusive-time-of-functions) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0682-baseball-game) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0739-daily-temperatures](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0739-daily-temperatures) |
 | [1046-last-stone-weight](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1046-last-stone-weight) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1128-number-of-equivalent-domino-pairs) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Stack
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0064-minimum-path-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0486-predict-the-winner) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0790-domino-and-tromino-tiling](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0790-domino-and-tromino-tiling) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 ## Combinatorics
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0475-heaters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0475-heaters) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
@@ -228,4 +232,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
