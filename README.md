@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1629-slowest-key](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1629-slowest-key) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2748-number-of-beautiful-pairs) |
 | [3360-stone-removal-game](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3360-stone-removal-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2748-number-of-beautiful-pairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3867-sum-of-gcd-of-formed-pairs) |
