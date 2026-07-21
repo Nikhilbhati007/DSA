@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1331-rank-transform-of-an-array) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1436-destination-city](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1436-destination-city) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1046-last-stone-weight) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
