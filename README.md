@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-rings-and-rods](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2103-rings-and-rods) |
 | [2451-odd-string-difference](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2451-odd-string-difference) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2531-make-number-of-distinct-characters-equal) |
+| [2810-faulty-keyboard](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2810-faulty-keyboard) |
 | [3174-clear-digits](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3174-clear-digits) |
 ## Graph Theory
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1688-count-of-matches-in-tournament) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2073-time-needed-to-buy-tickets) |
+| [2810-faulty-keyboard](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2810-faulty-keyboard) |
 | [3174-clear-digits](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3174-clear-digits) |
 | [3360-stone-removal-game](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3360-stone-removal-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3867-sum-of-gcd-of-formed-pairs) |
