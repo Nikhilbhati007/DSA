@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0771-jewels-and-stones) |
+| [0831-masking-personal-information](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0831-masking-personal-information) |
 | [0917-reverse-only-letters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0917-reverse-only-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1358-number-of-substrings-containing-all-three-characters) |
