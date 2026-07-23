@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0482-license-key-formatting](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0520-detect-capital) |
+| [0686-repeated-string-match](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0686-repeated-string-match) |
 | [0771-jewels-and-stones](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0831-masking-personal-information) |
@@ -281,5 +282,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
