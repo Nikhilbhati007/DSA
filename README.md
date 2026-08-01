@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2073-time-needed-to-buy-tickets) |
 | [2810-faulty-keyboard](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2810-faulty-keyboard) |
 | [3174-clear-digits](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3174-clear-digits) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3360-stone-removal-game](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3360-stone-removal-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2469-convert-the-temperature) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2748-number-of-beautiful-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2748-number-of-beautiful-pairs) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3360-stone-removal-game](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3536-maximum-product-of-two-digits) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0486-predict-the-winner) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Number Theory
 |  |
 | ------- |
