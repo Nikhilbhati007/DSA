@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0739-daily-temperatures](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0860-lemonade-change) |
+| [0877-stone-game](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0877-stone-game) |
 | [1046-last-stone-weight](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1046-last-stone-weight) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1260-shift-2d-grid](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1260-shift-2d-grid) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0628-maximum-product-of-three-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0738-monotone-increasing-digits) |
+| [0877-stone-game](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1716-calculate-money-in-leetcode-bank) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0486-predict-the-winner) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0790-domino-and-tromino-tiling](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0790-domino-and-tromino-tiling) |
+| [0877-stone-game](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0877-stone-game) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 ## Combinatorics
 |  |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0877-stone-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Number Theory
 |  |
@@ -318,4 +322,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
