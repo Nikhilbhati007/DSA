@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0084-largest-rectangle-in-histogram) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0041-first-missing-positive) |
 | [0138-copy-list-with-random-pointer](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0138-copy-list-with-random-pointer) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0771-jewels-and-stones) |
