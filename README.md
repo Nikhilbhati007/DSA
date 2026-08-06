@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0001-two-sum) |
+| [0138-copy-list-with-random-pointer](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0138-copy-list-with-random-pointer) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0771-jewels-and-stones) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1128-number-of-equivalent-domino-pairs) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0328-odd-even-linked-list) |
 ## Counting Sort
