@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1528-shuffle-string) |
 | [1590-make-sum-divisible-by-p](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1590-make-sum-divisible-by-p) |
 | [1629-slowest-key](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1629-slowest-key) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1512-number-of-good-pairs) |
 | [1590-make-sum-divisible-by-p](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1590-make-sum-divisible-by-p) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2103-rings-and-rods](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2103-rings-and-rods) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Stack
 |  |
 | ------- |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0475-heaters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0475-heaters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
@@ -286,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1590-make-sum-divisible-by-p) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1732-find-the-highest-altitude) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3546-equal-sum-grid-partition-i) |
 ## Recursion
