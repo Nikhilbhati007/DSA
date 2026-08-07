@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0877-stone-game) |
+| [1004-max-consecutive-ones-iii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1046-last-stone-weight) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1260-shift-2d-grid](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1260-shift-2d-grid) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0424-longest-repeating-character-replacement) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1004-max-consecutive-ones-iii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Stack
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0475-heaters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0475-heaters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1004-max-consecutive-ones-iii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1004-max-consecutive-ones-iii) |
 | [1590-make-sum-divisible-by-p](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1732-find-the-highest-altitude) |
