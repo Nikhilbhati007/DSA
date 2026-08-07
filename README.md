@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0628-maximum-product-of-three-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0738-monotone-increasing-digits) |
 | [0877-stone-game](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0877-stone-game) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1512-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1716-calculate-money-in-leetcode-bank) |
@@ -358,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3310-remove-methods-from-project) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
