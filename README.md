@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2413-smallest-even-multiple](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2469-convert-the-temperature) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2600-k-items-with-the-maximum-sum) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0738-monotone-increasing-digits](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0738-monotone-increasing-digits) |
 | [0860-lemonade-change](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2600-k-items-with-the-maximum-sum) |
 ## Dynamic Programming
