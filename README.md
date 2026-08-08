@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0209-minimum-size-subarray-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0209-minimum-size-subarray-sum) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0416-partition-equal-subset-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0424-longest-repeating-character-replacement) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1004-max-consecutive-ones-iii) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0209-minimum-size-subarray-sum) |
 | [0475-heaters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0475-heaters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1004-max-consecutive-ones-iii) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1004-max-consecutive-ones-iii) |
 | [1590-make-sum-divisible-by-p](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
