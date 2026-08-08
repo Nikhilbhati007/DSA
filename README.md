@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1732-find-the-highest-altitude) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2073-time-needed-to-buy-tickets) |
