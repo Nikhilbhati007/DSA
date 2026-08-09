@@ -384,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
