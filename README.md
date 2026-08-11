@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0475-heaters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0636-exclusive-time-of-functions) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0138-copy-list-with-random-pointer) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0771-jewels-and-stones) |
 | [0930-binary-subarrays-with-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0992-subarrays-with-k-different-integers) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0496-next-greater-element-i) |
 | [0636-exclusive-time-of-functions](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0739-daily-temperatures) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
