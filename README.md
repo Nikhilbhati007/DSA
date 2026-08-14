@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3379-transformed-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3379-transformed-array) |
+| [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3457-eat-pizzas](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3457-eat-pizzas) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3546-equal-sum-grid-partition-i) |
