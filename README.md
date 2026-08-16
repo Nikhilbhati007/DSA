@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3310-remove-methods-from-project) |
 ## Heap (Priority Queue)
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [3310-remove-methods-from-project](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3310-remove-methods-from-project) |
 ## Bit Manipulation
 |  |
@@ -445,4 +447,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0584-find-customer-referee](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0620-not-boring-movies) |
+## Tree
+|  |
+| ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0515-find-largest-value-in-each-tree-row) |
+## Binary Tree
+|  |
+| ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0515-find-largest-value-in-each-tree-row) |
 <!---LeetCode Topics End-->
