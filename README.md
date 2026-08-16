@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3310-remove-methods-from-project) |
 ## Heap (Priority Queue)
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [3310-remove-methods-from-project](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3310-remove-methods-from-project) |
 ## Bit Manipulation
 |  |
@@ -451,8 +453,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
