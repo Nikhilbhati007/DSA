@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0209-minimum-size-subarray-sum) |
+| [0283-move-zeroes](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0283-move-zeroes) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0416-partition-equal-subset-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0283-move-zeroes) |
 | [0475-heaters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0475-heaters) |
 | [0917-reverse-only-letters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0917-reverse-only-letters) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3132-find-the-integer-added-to-array-ii) |
