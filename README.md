@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0283-move-zeroes](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0283-move-zeroes) |
 | [0475-heaters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0475-heaters) |
 | [0917-reverse-only-letters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0917-reverse-only-letters) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0206-reverse-linked-list) |
