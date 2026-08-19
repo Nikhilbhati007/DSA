@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0283-move-zeroes) |
 | [0475-heaters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0475-heaters) |
 | [0917-reverse-only-letters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0917-reverse-only-letters) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2460-apply-operations-to-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2460-apply-operations-to-an-array) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0328-odd-even-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Counting Sort
 |  |
 | ------- |
