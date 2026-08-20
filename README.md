@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2748-number-of-beautiful-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2748-number-of-beautiful-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3238-find-the-number-of-winning-players](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3238-find-the-number-of-winning-players) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2073-time-needed-to-buy-tickets) |
 | [2460-apply-operations-to-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2460-apply-operations-to-an-array) |
 | [2810-faulty-keyboard](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2810-faulty-keyboard) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3174-clear-digits) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
