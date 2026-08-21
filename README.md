@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1046-last-stone-weight) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1128-number-of-equivalent-domino-pairs) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1288-remove-covered-intervals) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0628-maximum-product-of-three-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0738-monotone-increasing-digits) |
 | [0877-stone-game](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0877-stone-game) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1512-number-of-good-pairs) |
@@ -481,4 +483,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
