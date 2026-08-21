@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0503-next-greater-element-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0636-exclusive-time-of-functions) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0424-longest-repeating-character-replacement) |
 | [0482-license-key-formatting](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0520-detect-capital) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0686-repeated-string-match](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0686-repeated-string-match) |
 | [0771-jewels-and-stones](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0796-rotate-string) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0496-next-greater-element-i) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0771-jewels-and-stones) |
 | [0930-binary-subarrays-with-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0992-subarrays-with-k-different-integers) |
