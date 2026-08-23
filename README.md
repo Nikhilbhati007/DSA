@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0232-implement-queue-using-stacks) |
+| [0707-design-linked-list](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0707-design-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0328-odd-even-linked-list) |
+| [0707-design-linked-list](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0725-split-linked-list-in-parts) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
