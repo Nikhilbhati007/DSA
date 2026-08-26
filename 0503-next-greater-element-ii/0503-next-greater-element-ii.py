@@ -1,23 +1,21 @@
-
 class Solution(object):
+
     def nextGreaterElements(self, nums):
+
         n = len(nums)
-        maxele = max(nums)
-        res = []
-        for i in range(n):
-            if nums[i] == maxele:
-                res.append(-1)
-                continue
-            k = (i + 1) % n
-            count = 0
-            while count < n - 1:
-                if nums[k] > nums[i]:
-                    res.append(nums[k])
-                    break
 
-                k = (k + 1) % n
-                count += 1
-            else:
-                res.append(-1)
+        st = []
+        ans = [-1] * n
 
-        return res
+        for i in range(2 * n - 1, -1, -1):
+
+            while st and st[-1] <= nums[i % n]:
+                st.pop()
+
+            if i < n:
+                if st:
+                    ans[i] = st[-1]
+
+            st.append(nums[i % n])
+
+        return ans
