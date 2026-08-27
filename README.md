@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-rings-and-rods](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2103-rings-and-rods) |
 | [2451-odd-string-difference](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2451-odd-string-difference) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2531-make-number-of-distinct-characters-equal) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2810-faulty-keyboard) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3090-maximum-length-substring-with-two-occurrences) |
