@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0189-rotate-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0085-maximal-rectangle) |
 | [1260-shift-2d-grid](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1260-shift-2d-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3546-equal-sum-grid-partition-i) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0496-next-greater-element-i) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0085-maximal-rectangle) |
 | [0416-partition-equal-subset-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0486-predict-the-winner) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -392,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0739-daily-temperatures) |
