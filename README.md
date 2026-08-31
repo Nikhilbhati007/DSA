@@ -494,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0725-split-linked-list-in-parts) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Counting Sort
 |  |
