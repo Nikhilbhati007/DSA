@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2413-smallest-even-multiple](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2469-convert-the-temperature) |
+| [2485-find-the-pivot-integer](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2485-find-the-pivot-integer) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2748-number-of-beautiful-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2748-number-of-beautiful-pairs) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1732-find-the-highest-altitude) |
+| [2485-find-the-pivot-integer](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2485-find-the-pivot-integer) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3546-equal-sum-grid-partition-i) |
 | [3903-smallest-stable-index-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3904-smallest-stable-index-ii) |
