@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1436-destination-city) |
 | [1528-shuffle-string](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1528-shuffle-string) |
 | [1629-slowest-key](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1629-slowest-key) |
+| [1763-longest-nice-substring](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1763-longest-nice-substring) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2103-rings-and-rods](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2103-rings-and-rods) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1512-number-of-good-pairs) |
 | [1590-make-sum-divisible-by-p](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1763-longest-nice-substring](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1763-longest-nice-substring) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2103-rings-and-rods](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2103-rings-and-rods) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2206-divide-array-into-equal-pairs) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1763-longest-nice-substring](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1763-longest-nice-substring) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -547,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1763-longest-nice-substring](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1763-longest-nice-substring) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2206-divide-array-into-equal-pairs) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Database
@@ -604,4 +608,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0374-guess-number-higher-or-lower) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1763-longest-nice-substring](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
