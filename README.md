@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0189-rotate-array) |
+| [0367-valid-perfect-square](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0628-maximum-product-of-three-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0738-monotone-increasing-digits) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0209-minimum-size-subarray-sum) |
+| [0367-valid-perfect-square](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0374-guess-number-higher-or-lower) |
 | [0475-heaters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0475-heaters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0718-maximum-length-of-repeated-subarray) |
