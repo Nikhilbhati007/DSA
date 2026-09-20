@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3174-clear-digits](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3174-clear-digits) |
 | [3340-check-balanced-string](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3340-check-balanced-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Graph Theory
 |  |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3360-stone-removal-game](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3360-stone-removal-game) |
 | [3379-transformed-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3379-transformed-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
