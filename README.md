@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0115-distinct-subsequences) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0424-longest-repeating-character-replacement) |
 | [0482-license-key-formatting](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0520-detect-capital) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0160-intersection-of-two-linked-lists) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0496-next-greater-element-i) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0239-sliding-window-maximum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0424-longest-repeating-character-replacement) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0930-binary-subarrays-with-sum) |
@@ -615,5 +618,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1763-longest-nice-substring](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
