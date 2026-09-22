@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0735-asteroid-collision](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0739-daily-temperatures) |
+| [0821-shortest-distance-to-a-character](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0821-shortest-distance-to-a-character) |
 | [0860-lemonade-change](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0877-stone-game) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0686-repeated-string-match) |
 | [0771-jewels-and-stones](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0796-rotate-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0821-shortest-distance-to-a-character) |
 | [0831-masking-personal-information](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0831-masking-personal-information) |
 | [0917-reverse-only-letters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0917-reverse-only-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0283-move-zeroes) |
 | [0475-heaters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0475-heaters) |
+| [0821-shortest-distance-to-a-character](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0917-reverse-only-letters) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
