@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1732-find-the-highest-altitude) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2073-time-needed-to-buy-tickets) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1528-shuffle-string) |
 | [1629-slowest-key](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1629-slowest-key) |
 | [1763-longest-nice-substring](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1763-longest-nice-substring) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2103-rings-and-rods](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2103-rings-and-rods) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1763-longest-nice-substring](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1763-longest-nice-substring) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2103-rings-and-rods](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2103-rings-and-rods) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2206-divide-array-into-equal-pairs) |
