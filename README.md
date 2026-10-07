@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1331-rank-transform-of-an-array) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1354-construct-target-array-with-multiple-sums) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1389-create-target-array-in-the-given-order) |
 | [1436-destination-city](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1436-destination-city) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1260-shift-2d-grid) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1389-create-target-array-in-the-given-order) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1441-build-an-array-with-stack-operations) |
 | [1688-count-of-matches-in-tournament](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1688-count-of-matches-in-tournament) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1700-number-of-students-unable-to-eat-lunch) |
