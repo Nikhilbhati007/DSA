@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0004-median-of-two-sorted-arrays) |
 | [0036-valid-sudoku](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0041-first-missing-positive) |
 | [0063-unique-paths-ii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0063-unique-paths-ii) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0367-valid-perfect-square) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0004-median-of-two-sorted-arrays) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1763-longest-nice-substring](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1763-longest-nice-substring) |
 ## Bracket Sequences
