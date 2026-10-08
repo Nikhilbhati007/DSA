@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2103-rings-and-rods](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2103-rings-and-rods) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2451-odd-string-difference](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2451-odd-string-difference) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2451-odd-string-difference](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2451-odd-string-difference) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2531-make-number-of-distinct-characters-equal) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2206-divide-array-into-equal-pairs) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2423-remove-letter-to-equalize-frequency](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2748-number-of-beautiful-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2748-number-of-beautiful-pairs) |
 | [3238-find-the-number-of-winning-players](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3238-find-the-number-of-winning-players) |
