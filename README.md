@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2451-odd-string-difference](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2451-odd-string-difference) |
 | [2460-apply-operations-to-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2460-apply-operations-to-an-array) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2600-k-items-with-the-maximum-sum) |
 | [3457-eat-pizzas](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3457-eat-pizzas) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
@@ -482,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3457-eat-pizzas](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3457-eat-pizzas) |
