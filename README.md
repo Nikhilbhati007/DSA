@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2748-number-of-beautiful-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2748-number-of-beautiful-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2748-number-of-beautiful-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2748-number-of-beautiful-pairs) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2600-k-items-with-the-maximum-sum) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3457-eat-pizzas](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3457-eat-pizzas) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Dynamic Programming
@@ -622,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1763-longest-nice-substring](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1763-longest-nice-substring) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2206-divide-array-into-equal-pairs) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Database
 |  |
