@@ -624,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0191-number-of-1-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1763-longest-nice-substring](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1763-longest-nice-substring) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2206-divide-array-into-equal-pairs) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0191-number-of-1-bits) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1763-longest-nice-substring](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1763-longest-nice-substring) |
 ## Bracket Sequences
