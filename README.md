@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2748-number-of-beautiful-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2748-number-of-beautiful-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2531-make-number-of-distinct-characters-equal](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2748-number-of-beautiful-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2748-number-of-beautiful-pairs) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -711,4 +713,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0257-binary-tree-paths) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
