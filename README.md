@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3132-find-the-integer-added-to-array-ii) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3457-eat-pizzas](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3457-eat-pizzas) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3457-eat-pizzas](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3457-eat-pizzas) |
@@ -541,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1664-ways-to-make-a-fair-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1664-ways-to-make-a-fair-array) |
 | [1732-find-the-highest-altitude](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2485-find-the-pivot-integer) |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3546-equal-sum-grid-partition-i) |
 | [3903-smallest-stable-index-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3904-smallest-stable-index-ii) |
@@ -726,4 +730,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Polygons
+|  |
+| ------- |
+| [2971-find-polygon-with-the-largest-perimeter](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 <!---LeetCode Topics End-->
