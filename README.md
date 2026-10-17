@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0002-add-two-numbers) |
+| [0060-permutation-sequence](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0486-predict-the-winner) |
 ## Game Theory
