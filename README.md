@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2103-rings-and-rods](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2103-rings-and-rods) |
+| [2262-total-appeal-of-a-string](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2262-total-appeal-of-a-string) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2451-odd-string-difference](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2451-odd-string-difference) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2531-make-number-of-distinct-characters-equal) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2262-total-appeal-of-a-string](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2262-total-appeal-of-a-string) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2451-odd-string-difference](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2451-odd-string-difference) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0907-sum-of-subarray-minimums) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1641-count-sorted-vowel-strings](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1641-count-sorted-vowel-strings) |
+| [2262-total-appeal-of-a-string](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2262-total-appeal-of-a-string) |
 ## Combinatorics
 |  |
 | ------- |
