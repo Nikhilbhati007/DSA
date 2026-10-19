@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0004-median-of-two-sorted-arrays) |
 | [0036-valid-sudoku](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0041-first-missing-positive) |
+| [0051-n-queens](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0084-largest-rectangle-in-histogram) |
@@ -743,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0051-n-queens) |
 | [0257-binary-tree-paths](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0257-binary-tree-paths) |
 ## Binary Indexed Tree
 |  |
@@ -760,4 +762,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0456-132-pattern) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
