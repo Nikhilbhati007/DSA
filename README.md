@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3340-check-balanced-string](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Graph Theory
 |  |
 | ------- |
