@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2451-odd-string-difference](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2451-odd-string-difference) |
 | [2460-apply-operations-to-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2460-apply-operations-to-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2748-number-of-beautiful-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2748-number-of-beautiful-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [2451-odd-string-difference](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2451-odd-string-difference) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2748-number-of-beautiful-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2748-number-of-beautiful-pairs) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2460-apply-operations-to-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2460-apply-operations-to-an-array) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3132-find-the-integer-added-to-array-ii) |
