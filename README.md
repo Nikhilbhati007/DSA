@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1288-remove-covered-intervals) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0085-maximal-rectangle) |
 | [0566-reshape-the-matrix](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1267-count-servers-that-communicate) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3546-equal-sum-grid-partition-i) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [1267-count-servers-that-communicate](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1267-count-servers-that-communicate) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3310-remove-methods-from-project) |
 ## Heap (Priority Queue)
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0992-subarrays-with-k-different-integers) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1128-number-of-equivalent-domino-pairs) |
+| [1267-count-servers-that-communicate](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1267-count-servers-that-communicate) |
 | [1512-number-of-good-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1512-number-of-good-pairs) |
 | [1726-tuple-with-same-product](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1726-tuple-with-same-product) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -586,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0128-longest-consecutive-sequence) |
+| [1267-count-servers-that-communicate](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1267-count-servers-that-communicate) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Prefix Sum
 |  |
@@ -694,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0543-diameter-of-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3310-remove-methods-from-project) |
 ## Bit Manipulation
 |  |
