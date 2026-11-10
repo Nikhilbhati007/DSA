@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0084-largest-rectangle-in-histogram) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0056-merge-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -843,4 +845,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0543-diameter-of-binary-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
