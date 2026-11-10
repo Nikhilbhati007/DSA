@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0739-daily-temperatures) |
 | [0821-shortest-distance-to-a-character](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0821-shortest-distance-to-a-character) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0877-stone-game) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0611-valid-triangle-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -859,4 +861,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0215-kth-largest-element-in-an-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
