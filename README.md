@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0041-first-missing-positive) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0367-valid-perfect-square) |
