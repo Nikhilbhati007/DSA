@@ -50,7 +50,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0907-sum-of-subarray-minimums) |
-| [0912-sort-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1004-max-consecutive-ones-iii) |
@@ -378,7 +377,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0239-sliding-window-maximum) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0373-find-k-pairs-with-smallest-sums) |
-| [0912-sort-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -557,13 +555,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0056-merge-intervals) |
+| [0147-insertion-sort-list](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0215-kth-largest-element-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0628-maximum-product-of-three-numbers) |
-| [0912-sort-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1331-rank-transform-of-an-array) |
@@ -681,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0146-lru-cache) |
+| [0147-insertion-sort-list](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0147-insertion-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0237-delete-node-in-a-linked-list) |
@@ -693,7 +692,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
-| [0912-sort-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0912-sort-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Minimax
 |  |
@@ -803,7 +801,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0215-kth-largest-element-in-an-array) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
-| [0912-sort-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0912-sort-an-array) |
 | [1763-longest-nice-substring](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1763-longest-nice-substring) |
 ## Bracket Sequences
 |  |
@@ -862,16 +859,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0215-kth-largest-element-in-an-array) |
-## Merge Sort
-|  |
-| ------- |
-| [0912-sort-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0912-sort-an-array) |
-## Bucket Sort
-|  |
-| ------- |
-| [0912-sort-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0912-sort-an-array) |
-## Radix Sort
-|  |
-| ------- |
-| [0912-sort-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
