@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3693-climbing-stairs-ii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3731-find-missing-elements) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1641-count-sorted-vowel-strings](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1641-count-sorted-vowel-strings) |
 | [2262-total-appeal-of-a-string](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2262-total-appeal-of-a-string) |
+| [3693-climbing-stairs-ii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3693-climbing-stairs-ii) |
 ## Combinatorics
 |  |
 | ------- |
