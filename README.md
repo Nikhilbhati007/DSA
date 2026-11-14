@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3238-find-the-number-of-winning-players](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3238-find-the-number-of-winning-players) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3364-minimum-positive-sum-subarray) |
 | [3379-transformed-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3379-transformed-array) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Stack
 |  |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2485-find-the-pivot-integer) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3364-minimum-positive-sum-subarray) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3546-equal-sum-grid-partition-i) |
 | [3903-smallest-stable-index-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3904-smallest-stable-index-ii) |
