@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2810-faulty-keyboard) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3174-clear-digits](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3174-clear-digits) |
 | [3340-check-balanced-string](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3340-check-balanced-string) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1641-count-sorted-vowel-strings](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1641-count-sorted-vowel-strings) |
 | [2262-total-appeal-of-a-string](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2262-total-appeal-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3693-climbing-stairs-ii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3693-climbing-stairs-ii) |
 ## Combinatorics
 |  |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2460-apply-operations-to-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2460-apply-operations-to-an-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3132-find-the-integer-added-to-array-ii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3132-find-the-integer-added-to-array-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
