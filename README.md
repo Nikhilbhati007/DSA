@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2810-faulty-keyboard) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3174-clear-digits](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3174-clear-digits) |
 | [3340-check-balanced-string](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3340-check-balanced-string) |
