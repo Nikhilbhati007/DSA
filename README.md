@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2103-rings-and-rods](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2103-rings-and-rods) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2262-total-appeal-of-a-string](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2262-total-appeal-of-a-string) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2423-remove-letter-to-equalize-frequency) |
