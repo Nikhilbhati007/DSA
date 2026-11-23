@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1352-product-of-the-last-k-numbers) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1389-create-target-array-in-the-given-order) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1248-count-number-of-nice-subarrays) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1352-product-of-the-last-k-numbers) |
 | [1512-number-of-good-pairs](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1641-count-sorted-vowel-strings](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1641-count-sorted-vowel-strings) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -700,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1352-product-of-the-last-k-numbers) |
 ## String Matching
 |  |
 | ------- |
@@ -813,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Nikhilbhati007/DSA-lab/tree/master/1352-product-of-the-last-k-numbers) |
 ## Monotonic Queue
 |  |
 | ------- |
