@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3898-find-the-degree-of-each-vertex](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3934-smallest-unique-subarray) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3978-unique-middle-element](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3978-unique-middle-element) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3866-first-unique-even-element) |
+| [3934-smallest-unique-subarray](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3934-smallest-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Nikhilbhati007/DSA-lab/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3934-smallest-unique-subarray](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -697,10 +700,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [3934-smallest-unique-subarray](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [3934-smallest-unique-subarray](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3934-smallest-unique-subarray) |
 ## Design
 |  |
 | ------- |
@@ -910,4 +915,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Nikhilbhati007/DSA-lab/tree/master/0852-peak-index-in-a-mountain-array) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Nikhilbhati007/DSA-lab/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
